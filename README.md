@@ -12,7 +12,7 @@ Create an empty directory named todo-app.
 Open your console, navigate to the directory, and run npm init to initialize the project.
 Within the todo-app directory, create a new file named index.js—this is where most of our code will go.
 
-###Server Setup
+### Server Setup
 To get our server up and running, we’ll use Express, a minimalist web framework for Node.js. Install Express by running:
 
 npm install express --save
